@@ -14,10 +14,8 @@ This is an application where users can create a blog post and can comment on oth
 ## Features:
 - users can create an account
 - users can sign in using Facebook
-- users can send a message via to site admin via the contact page form
 - logged in users can make posts
 - logged in users can make comments on other user's posts
-- logged in users can share a post on Facebook
-- admin can edit posts from users
+
 
 
